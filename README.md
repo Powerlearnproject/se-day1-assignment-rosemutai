@@ -42,20 +42,43 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 **Integrated Development Environments** 
-  Vscode
+They enhace productivity and efficiency making coding faster.
+They have built in debuggers which allow developers to identify and fix errors quickly.
+**Example:** Visual Studio, PyCharm, Sublime Text, Jupyter Notebook
+
 **Version Control Systems (VCS)**
-  GitHub
+They help track changes and history
+Enable collaboration since multiple developers can work on a single project simultaneously.
+Provides backup and recovery
+**Example:** GitHub, Mercurial
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+  Rapid technonological advancement which put software engineers pressure to stay current
+  Balancing work and life
+  Time constratints hence making software engineers to work under pressure to beat deadlines
+**Strategies to overcome these challenges.**
+  Dedicate time to learning e.g online courses
+  Set boundaries and take breaks 
+  Break the project into smaller tasks with clear milestones e.g using Agile
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
-
+**unit testing**
+  Testing individual componnets of a software. It ensures that each module works correctly in isolation.
+**integration testing**
+  Verifying that the various modules used by a software work well together. It ensures smooth data communication across services.
+**system testing**
+  Evaluates the entire application as a complete, integrated system. It identifies system-wide issues before deployment.
+**acceptance testing**
+  Very if a system satisfies the business requirements. Ensures the software solves real-world problems for users.
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+This is the process of designing and refining input prompts to effectively communicate with AI models.
+**Importances**
+It improves response accuracy and relevance
+It otimizes AI for Specific Use Cases
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+  Vague: "Explain machine learning."
+  Improved: "Explain machine learning in simple terms with an example of image recognition."
